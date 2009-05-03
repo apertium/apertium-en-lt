@@ -4962,6 +4962,7 @@
     <e lm="su"><i>su</i><par n="abipus__pr"/></e>
     <e lm="sulig"><i>sulig</i><par n="abipus__pr"/></e>
     <e lm="ties"><i>ties</i><par n="abipus__pr"/></e>
+    <e lm="tol"><i>tol</i><par n="abipus__pr"/></e>
 
     <!-- Conjunctions -->
     <e lm="ir"><i>ir</i><par n="ir__cnjcoo"/></e>
@@ -4981,6 +4982,7 @@
     <e lm="nors"><i>nors</i><par n="ir__cnjcoo"/></e>
     <e lm="ar"><i>ar</i><par n="ir__cnjcoo"/></e>
     <e lm="arba"><i>arba</i><par n="ir__cnjcoo"/></e>
+    <e lm="dar"><i>dar</i><par n="ir__cnjcoo"/></e>
 
 
     <!-- Nouns -->
