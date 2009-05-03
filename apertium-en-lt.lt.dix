@@ -4,6 +4,7 @@
   <sdefs>
     <sdef n="n"      c="daiktavardis"/>
     <sdef n="vblex"  c="veiksmažodis"/>
+    <sdef n="vbser"  c="būti"/>
     <sdef n="adj"    c="būdvardis"/>
     <sdef n="prn"    c="įvardis"/>
     <sdef n="num"    c="skaitvardis"/>
@@ -34,6 +35,8 @@
     <sdef n="p1"     c="pirmasis asmuo"/>
     <sdef n="p2"     c="antrasis asmuo"/>
     <sdef n="p3"     c="trečiasis asmuo"/>
+
+    <sdef n="pri"    c="present indicative"/>
   </sdefs>
   <pardefs>
     <pardef n="personal_pronouns__prn">
@@ -4716,6 +4719,50 @@
       </e>
     </pardef>
 
+    <!-- Verbs -->
+
+    <pardef n="/būti__vbser">
+      <e>
+        <p>
+          <l>esu</l>
+          <r>būti<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esi</l>
+          <r>būti<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>yra</l>
+          <r>būti<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esame</l>
+          <r>būti<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>esate</l>
+          <r>būti<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>yra</l>
+          <r>būti<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
+        </p>
+      </e>
+
+
+    </pardef>
+
+
     <!-- Adjectives -->
 
     <pardef n="ger/as__adj">
@@ -4984,6 +5031,10 @@
     <e lm="arba"><i>arba</i><par n="ir__cnjcoo"/></e>
     <e lm="dar"><i>dar</i><par n="ir__cnjcoo"/></e>
 
+    <!-- Verbs -->
+
+    <e lm="būti"><i/><par n="/būti__vbser"/></e>
+   
 
     <!-- Nouns -->
 
