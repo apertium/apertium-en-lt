@@ -29,8 +29,10 @@
     <sdef n="voc"    c="šauksmininkas"/>
 
     <sdef n="pst"    c=""/>
-    <sdef n="comp"    c=""/>
+    <sdef n="comp"   c=""/>
     <sdef n="sup"    c=""/>
+
+    <sdef n="dem"    c="demonstrative"/>
 
     <sdef n="p1"     c="pirmasis asmuo"/>
     <sdef n="p2"     c="antrasis asmuo"/>
@@ -554,6 +556,155 @@
         </p>
       </e>
     </pardef>
+
+    <pardef n="t/as__prn">
+      <e>
+        <p>
+          <l>as</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>o</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uo</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ame</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ie</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ų</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iems</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uos</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ais</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uose</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ai</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oje</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ų</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oms</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omis</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ose</l>
+          <r>as<s n="prn"/><s n="dem"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
     <!-- Second declension -->
     <pardef n="abažūr/as__n">
       <e>
@@ -4942,6 +5093,8 @@
   
   <section id="main" type="standard">
     <e lm="personal pronouns"><i/><par n="personal_pronouns__prn"/></e>
+
+    <e lm="tas"><i>t</i><par n="t/as__prn"/></e>
 
     <!-- Prepositions -->
     <e lm="abipus"><i>abipus</i><par n="abipus__pr"/></e>
