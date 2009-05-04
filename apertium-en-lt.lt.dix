@@ -10,6 +10,7 @@
     <sdef n="num"    c="skaitvardis"/>
     <sdef n="cnjcoo" c="jungtukas"/>
     <sdef n="pr"     c="prielinksnis"/>
+    <sdef n="adv"    c="adverb"/>
 
     <sdef n="f"      c="moteriška"/>
     <sdef n="m"      c="vyriška"/>
@@ -33,6 +34,7 @@
     <sdef n="sup"    c=""/>
 
     <sdef n="dem"    c="demonstrative"/>
+    <sdef n="itg"    c="interrogative"/>
 
     <sdef n="p1"     c="pirmasis asmuo"/>
     <sdef n="p2"     c="antrasis asmuo"/>
@@ -5068,6 +5070,101 @@
 
     </pardef>
 
+    <!-- Adverbs -->
+
+    <pardef n="taip__adv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="čia__adv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adv"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="kur__adv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adv"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="gilia/i__adv">
+      <e>
+        <p>
+          <l>i</l>
+          <r>i<s n="adv"/><s n="pst"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>i<s n="adv"/><s n="comp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiai</l>
+          <r>i<s n="adv"/><s n="sup"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="grei/tai__adv">
+      <e>
+        <p>
+          <l>tai</l>
+          <r>tai<s n="adv"/><s n="pst"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiau</l>
+          <r>tai<s n="adv"/><s n="comp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiai</l>
+          <r>tai<s n="adv"/><s n="sup"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="daug__adv">
+      <e>
+        <p>
+          <l/>
+          <r><s n="adv"/><s n="pst"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iau</l>
+          <r><s n="adv"/><s n="comp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iausiai</l>
+          <r><s n="adv"/><s n="sup"/></r>
+        </p>
+      </e>
+    </pardef>
+
+
+
+
     <!-- Conjunctions -->
 
     <pardef n="ir__cnjcoo">
@@ -5188,12 +5285,63 @@
 
     <e lm="būti"><i/><par n="/būti__vbser"/></e>
    
+    <!-- Adverbs -->
+
+    <e lm="taip"><i>taip</i><par n="taip__adv"/></e>
+    <e lm="ne"><i>ne</i><par n="taip__adv"/></e>
+
+    <e lm="kur"><i>kur</i><par n="kur__adv"/></e>
+    <e lm="kodel"><i>kodel</i><par n="kur__adv"/></e>
+
+    <e lm="tai"><i>tai</i><par n="čia__adv"/></e> <!-- ?? -->
+    <e lm="va"><i>va</i><par n="čia__adv"/></e>
+    <e lm="čia"><i>čia</i><par n="čia__adv"/></e>
+    <e lm="ten"><i>ten</i><par n="čia__adv"/></e>
+    <e lm="arti"><i>arti</i><par n="čia__adv"/></e>
+
+    <e lm="dar"><i>dar</i><par n="čia__adv"/></e>
+
+    <e lm="aklai"><i>aklai</i><par n="čia__adv"/></e>
+    <e lm="deja"><i>deja</i><par n="čia__adv"/></e>
+
+    <e lm="maždaug"><i>maždaug</i><par n="čia__adv"/></e>
+    <e lm="kasdien"><i>kasdien</i><par n="čia__adv"/></e>
+    <e lm="nėmaž"><i>nėmaž</i><par n="čia__adv"/></e>
+    <e lm="staiga"><i>staiga</i><par n="čia__adv"/></e>
+    <e lm="tik"><i>tik</i><par n="čia__adv"/></e>
+    <e lm="ką tik"><i>ką<b/>tik</i><par n="čia__adv"/></e>
+
+    <e lm="tiesiog"><i>tiesiog</i><par n="čia__adv"/></e>
+
+    <e lm="daug"><i>daug</i><par n="daug__adv"/></e>
+    <e lm="ypač"><i>ypač</i><par n="daug__adv"/></e>
+
+    <e lm="giliai"><i>gilia</i><par n="gilia/i__adv"/></e>
+    <e lm="blogai"><i>bloga</i><par n="gilia/i__adv"/></e>
+    <e lm="dažnai"><i>dažna</i><par n="gilia/i__adv"/></e>
+    <e lm="dieviškai"><i>dieviška</i><par n="gilia/i__adv"/></e>
+    <e lm="gerai"><i>gera</i><par n="gilia/i__adv"/></e>
+    <e lm="gražiai"><i>gražia</i><par n="gilia/i__adv"/></e>
+    <e lm="išdaigiai"><i>išdaigia</i><par n="gilia/i__adv"/></e>
+    <e lm="iškalbiai"><i>iškalbia</i><par n="gilia/i__adv"/></e>
+    <e lm="meniškai"><i>meniška</i><par n="gilia/i__adv"/></e>
+    <e lm="labai"><i>laba</i><par n="gilia/i__adv"/></e>
+    <e lm="laisvai"><i>laisva</i><par n="gilia/i__adv"/></e>
+    <e lm="lengvai"><i>lengva</i><par n="gilia/i__adv"/></e>
+    <e lm="mielai"><i>miela</i><par n="gilia/i__adv"/></e>
+    <e lm="mįslingai"><i>mįslinga</i><par n="gilia/i__adv"/></e>
+    <e lm="neramiai"><i>neramia</i><par n="gilia/i__adv"/></e>
+    <e lm="netvarkingai"><i>netvarkinga</i><par n="gilia/i__adv"/></e>
+    <e lm="paslaptingai"><i>paslaptinga</i><par n="gilia/i__adv"/></e>
+    <e lm="patraukliai"><i>patrauklia</i><par n="gilia/i__adv"/></e>
+    <e lm="saugiai"><i>saugia</i><par n="gilia/i__adv"/></e>
+
+    <e lm="greitai"><i>grei</i><par n="grei/tai__adv"/></e>
 
     <!-- Nouns -->
 
     <e lm="sportas"><i>sport</i><par n="or/as__n_m"/></e>
     <e lm="širdis"><i>šird</i><par n="šird/is__n_f"/></e>
-    <e lm="Koplyčia"><i>Koplyči</i><par n="od/a__n_f"/></e>
     <e lm="vartotojas"><i>vartotoj</i><par n="radij/as__n_m"/></e>
     <e lm="magistralė"><i>magistral</i><par n="up/ė__n_f"/></e>
     <e lm="vietininkas"><i>vietinink</i><par n="or/as__n_m"/></e>
