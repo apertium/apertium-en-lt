@@ -48,6 +48,458 @@
     <sdef n="pfi"    c="past frequentative indicative"/>
   </sdefs>
   <pardefs>
+    <!-- Participle helpers -->
+    <pardef n="dirb/ąs__pprs_act">
+      <e>
+        <p>
+          <l>ąs</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR" c="FIXME: check if this is really LR">
+        <p>
+          <l>antis</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančio</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančiam</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>antį</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančiu</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančiame</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančių</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>antiems</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančius</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančiuose</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančiais</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e r="LR" c="FIXME: check if this is really LR">
+        <p>
+          <l>antys</l>
+          <r><s n="pprs"/><s n="act"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančios</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančiai</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančią</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančioje</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančia</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>anti</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančių</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančioms</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančias</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančiose</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančiomis</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ančios</l>
+          <r><s n="pprs"/><s n="act"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="turėj/ęs__pp_act">
+      <e>
+        <p>
+          <l>usio</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiam</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usį</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiame</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiu</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ęs</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usių</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiems</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usius</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiuose</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiais</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usios</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiai</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usią</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usioje</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usia</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usi</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usių</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usioms</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usias</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiose</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiomis</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>usiusios</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="skai/tęs__pp_act">
+      <e c="Colloquial Lithuanian has 'skaičiusio' but that seems to be a printing error">
+        <p>
+          <l>čiusios</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusiam</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusį</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusiame</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusiu</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tęs</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusių</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusiems</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusius</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusiuose</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusiais</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>tę</l>
+          <r><s n="pp"/><s n="act"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusio</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusiai</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusią</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusioje</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusia</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusi</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusių</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusioms</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusias</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusiose</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusiomis</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>čiusiusios</l>
+          <r><s n="pp"/><s n="act"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="personal_pronouns__prn">
       <!-- Singular -->
       <e>
