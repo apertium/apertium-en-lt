@@ -16,6 +16,11 @@
   <e><p><l>Czech<s n="np"/><s n="top"/></l><r>Čekija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   <e><p><l>Poland<s n="np"/><s n="top"/></l><r>Lenkija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   <e><p><l>Lithuania<s n="np"/><s n="top"/></l><r>Lietuva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Slovakia<s n="np"/><s n="top"/></l><r>Slovakija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Republic<b/>of<b/>Lithuania<s n="np"/><s n="top"/></l><r>Lietuvos<b/>Respublika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Republic<b/>of<b/>Poland<s n="np"/><s n="top"/></l><r>Lenkijos<b/>Respublika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Republic<b/>of<b/>Ireland<s n="np"/><s n="top"/></l><r>Airijos<b/>Respublika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Czech<b/>Republic<s n="np"/><s n="top"/></l><r>Čekijos<b/>Respublika<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   
   <!-- nouns -->
   <e><p><l>Afrikaans<s n="n"/></l><r>Afrikansas<s n="n"/><s n="m"/></r></p></e>
