@@ -14,6 +14,8 @@
   <e><p><l>Sweden<s n="np"/><s n="top"/></l><r>Švedija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   <e><p><l>Finland<s n="np"/><s n="top"/></l><r>Suomija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   <e><p><l>Czech<s n="np"/><s n="top"/></l><r>Čekija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Poland<s n="np"/><s n="top"/></l><r>Lenkija<s n="np"/><s n="top"/><s n="f"/></r></p></e>
+  <e><p><l>Lithuania<s n="np"/><s n="top"/></l><r>Lietuva<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   
   <!-- nouns -->
   <e><p><l>Afrikaans<s n="n"/></l><r>Afrikansas<s n="n"/><s n="m"/></r></p></e>

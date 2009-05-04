@@ -3,6 +3,8 @@
   <alphabet>AĄBCČDEĘĖFGHIĮYJKLMNOPRSŠTUŲŪVZŽaąbcčdeęėfghiįyjklmnoprsštuųūvzž</alphabet>
   <sdefs>
     <sdef n="n"      c="daiktavardis"/>
+    <sdef n="np"     c=""/>
+    <sdef n="top"    c=""/>
     <sdef n="vblex"  c="veiksmažodis"/>
     <sdef n="vbser"  c="būti"/>
     <sdef n="adj"    c="būdvardis"/>
@@ -708,6 +710,50 @@
       </e>
     </pardef>
 
+    <pardef n="Lietuv/a__np">
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ai</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oje</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>a<s n="np"/><s n="top"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
     <!-- male/female -->
     <pardef n="lietuv/is__n">
       <e>
@@ -5562,6 +5608,17 @@
     <e lm="saugiai"><i>saugia</i><par n="gilia/i__adv"/></e>
 
     <e lm="greitai"><i>grei</i><par n="grei/tai__adv"/></e>
+
+    <!-- Toponyms -->
+    <e lm="Lietuva"><i>Lietuv</i><par n="Lietuv/a__np"/></e>
+    <e lm="Airija"><i>Airij</i><par n="Lietuv/a__np"/></e>
+    <e lm="Albanija"><i>Albanij</i><par n="Lietuv/a__np"/></e>
+    <e lm="Australija"><i>Australij</i><par n="Lietuv/a__np"/></e>
+    <e lm="Bulgarija"><i>Bulgarij</i><par n="Lietuv/a__np"/></e>
+    <e lm="Švedija"><i>Švedij</i><par n="Lietuv/a__np"/></e>
+    <e lm="Suomija"><i>Suomij</i><par n="Lietuv/a__np"/></e>
+    <e lm="Čekija"><i>Čekij</i><par n="Lietuv/a__np"/></e>
+    <e lm="Lenkija"><i>Lenkij</i><par n="Lietuv/a__np"/></e>
 
     <!-- Nouns -->
     <e lm="lietuvis"><i>lietuv</i><par n="lietuv/is__n"/></e>
