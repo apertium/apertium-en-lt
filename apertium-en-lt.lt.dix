@@ -18,6 +18,7 @@
     <sdef n="m"      c="vyriška"/>
     <sdef n="mf"     c="niekatroji"/>
 
+    <sdef n="sp"     c=""/>
     <sdef n="sg"     c="vienaskaita"/>
     <sdef n="du"     c="dviskaita"/>
     <sdef n="pl"     c="daugiskaita"/>
