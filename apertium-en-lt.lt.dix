@@ -6237,6 +6237,21 @@
     <e lm="analizė"><i>analiz</i><par n="up/ė__n_f"/></e>
     <e lm="ranka"><i>rank</i><par n="od/a__n_f"/></e>
 
+    <!-- Languages -->
+    <e lm="vokiečių kalba"><i>vokiečių<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="anglų kalba"><i>anglų<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="skandinavų kalba"><i>skandinavų<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="danų kalba"><i>danų<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="švedų kalba"><i>švedų<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="lietuvių kalba"><i>lietuvių<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="olandų kalba"><i>olandų<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="menksiečių kalba"><i>menksiečių<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="lenkų kalba"><i>lenkų<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="čekų kalba"><i>čekų<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="makedonų kalba"><i>makedonų<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="indoeuropiečių kalba"><i>indoeuropiečių<b/>kalb</i><par n="od/a__n_f"/></e>
+    <e lm="slavų kalba"><i>slavų<b/>kalb</i><par n="od/a__n_f"/></e>
+
     <e lm="abiturientas"><i>abiturient</i><par n="abažūr/as__n"/></e>
     <e lm="abortas"><i>abort</i><par n="abažūr/as__n"/></e>
     <e lm="absolventas"><i>absolvent</i><par n="abažūr/as__n"/></e>
