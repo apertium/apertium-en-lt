@@ -41,6 +41,8 @@
     <sdef n="p3"     c="trečiasis asmuo"/>
 
     <sdef n="pri"    c="present indicative"/>
+    <sdef n="past"   c="past"/>
+    <sdef n="pfi"    c="past frequentative indicative"/>
   </sdefs>
   <pardefs>
     <pardef n="personal_pronouns__prn">
@@ -4903,6 +4905,66 @@
         <p>
           <l>esate</l>
           <r>būti<s n="vbser"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>buvau</l>
+          <r>būti<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>buvai</l>
+          <r>būti<s n="vbser"/><s n="past"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>buvo</l>
+          <r>būti<s n="vbser"/><s n="past"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>buvome</l>
+          <r>būti<s n="vbser"/><s n="past"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>buvote</l>
+          <r>būti<s n="vbser"/><s n="past"/><s n="p2"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>būdavau</l>
+          <r>būti<s n="vbser"/><s n="pfi"/><s n="p1"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>būdavai</l>
+          <r>būti<s n="vbser"/><s n="pfi"/><s n="p2"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>būdavo</l>
+          <r>būti<s n="vbser"/><s n="pfi"/><s n="p3"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>būdavome</l>
+          <r>būti<s n="vbser"/><s n="pfi"/><s n="p1"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>būdavote</l>
+          <r>būti<s n="vbser"/><s n="pfi"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
