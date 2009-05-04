@@ -708,6 +708,177 @@
       </e>
     </pardef>
 
+    <!-- male/female -->
+    <pardef n="lietuv/is__n">
+      <e>
+        <p>
+          <l>io</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iui</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>į</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>yje</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iu</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is</l>
+          <r>is<s n="n"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ių</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iams</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ius</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iuose</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iai</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iais</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iai</l>
+          <r>is<s n="n"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ės</l>
+          <r>is<s n="n"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ei</l>
+          <r>is<s n="n"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ę</l>
+          <r>is<s n="n"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ėje</l>
+          <r>is<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>is<s n="n"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>e</l>
+          <r>is<s n="n"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ė</l>
+          <r>is<s n="n"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ių</l>
+          <r>is<s n="n"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ėms</l>
+          <r>is<s n="n"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>es</l>
+          <r>is<s n="n"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ėse</l>
+          <r>is<s n="n"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ės</l>
+          <r>is<s n="n"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ėmis</l>
+          <r>is<s n="n"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ės</l>
+          <r>is<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <!-- Second declension -->
     <pardef n="abažūr/as__n">
@@ -5393,7 +5564,7 @@
     <e lm="greitai"><i>grei</i><par n="grei/tai__adv"/></e>
 
     <!-- Nouns -->
-
+    <e lm="lietuvis"><i>lietuv</i><par n="lietuv/is__n"/></e>
     <e lm="sportas"><i>sport</i><par n="or/as__n_m"/></e>
     <e lm="širdis"><i>šird</i><par n="šird/is__n_f"/></e>
     <e lm="vartotojas"><i>vartotoj</i><par n="radij/as__n_m"/></e>
@@ -6001,7 +6172,6 @@
     <e lm="kiekis"><i>kiek</i><par n="var/is__n_m"/></e>
     <e lm="panorama"><i>panoram</i><par n="od/a__n_f"/></e>
     <e lm="lempa"><i>lemp</i><par n="od/a__n_f"/></e>
-    <e lm="lietuvis"><i>lietuv</i><par n="var/is__n_m"/></e>
     <e lm="krikščionybė"><i>krikščionyb</i><par n="up/ė__n_f"/></e>
     <e lm="atmintis"><i>atmin</i><par n="an/tis__n_f"/></e>
     <e lm="ikona"><i>ikon</i><par n="od/a__n_f"/></e>
