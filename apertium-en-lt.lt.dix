@@ -4878,41 +4878,33 @@
       <e>
         <p>
           <l>esu</l>
-          <r>būti<s n="vblex"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
+          <r>būti<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esi</l>
-          <r>būti<s n="vblex"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
+          <r>būti<s n="vbser"/><s n="pri"/><s n="p2"/><s n="sg"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>yra</l>
-          <r>būti<s n="vblex"/><s n="pri"/><s n="p3"/><s n="sg"/></r>
+          <r>būti<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esame</l>
-          <r>būti<s n="vblex"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
+          <r>būti<s n="vbser"/><s n="pri"/><s n="p1"/><s n="pl"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>esate</l>
-          <r>būti<s n="vblex"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
+          <r>būti<s n="vbser"/><s n="pri"/><s n="p2"/><s n="pl"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l>yra</l>
-          <r>būti<s n="vblex"/><s n="pri"/><s n="p3"/><s n="pl"/></r>
-        </p>
-      </e>
-
-
     </pardef>
 
 
