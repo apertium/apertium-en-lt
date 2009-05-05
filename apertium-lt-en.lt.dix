@@ -48,6 +48,443 @@
     <sdef n="pfi"    c="past frequentative indicative"/>
   </sdefs>
   <pardefs>
+  
+    <!-- Numerals -->
+    <pardef n="vien/as__num">
+      <e>
+        <p>
+          <l>o</l>
+          <r>as<s n="num"/><s n="m"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>am</l>
+          <r>as<s n="num"/><s n="m"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>as<s n="num"/><s n="m"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ame</l>
+          <r>as<s n="num"/><s n="m"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>as<s n="num"/><s n="m"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>as<s n="num"/><s n="m"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>as<s n="num"/><s n="m"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ų</l>
+          <r>as<s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>iems</l>
+          <r>as<s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>us</l>
+          <r>as<s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uose</l>
+          <r>as<s n="num"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ais</l>
+          <r>as<s n="num"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>as<s n="num"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>i</l>
+          <r>as<s n="num"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r>as<s n="num"/><s n="f"/><s n="sg"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ai</l>
+          <r>as<s n="num"/><s n="f"/><s n="sg"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ą</l>
+          <r>as<s n="num"/><s n="f"/><s n="sg"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oje</l>
+          <r>as<s n="num"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>as<s n="num"/><s n="f"/><s n="sg"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>as<s n="num"/><s n="f"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>as<s n="num"/><s n="f"/><s n="sg"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ų</l>
+          <r>as<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oms</l>
+          <r>as<s n="num"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r>as<s n="num"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ose</l>
+          <r>as<s n="num"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omis</l>
+          <r>as<s n="num"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r>as<s n="num"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r>as<s n="num"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>a</l>
+          <r>as<s n="num"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="d/u__num">
+      <e>
+        <p>
+          <l>viejų</l>
+          <r>u<s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>viem</l>
+          <r>u<s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>u<s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>viejuose</l>
+          <r>u<s n="num"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>viem</l>
+          <r>u<s n="num"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>u<s n="num"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>u</l>
+          <r>u<s n="num"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>viejų</l>
+          <r>u<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>viem</l>
+          <r>u<s n="num"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>vi</l>
+          <r>u<s n="num"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>viejose</l>
+          <r>u<s n="num"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>viem</l>
+          <r>u<s n="num"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>vi</l>
+          <r>u<s n="num"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>vi</l>
+          <r>u<s n="num"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="penki__num">
+      <e>
+        <p>
+          <l>ų</l>
+          <r><s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ems</l>
+          <r><s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r><s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>uose</l>
+          <r><s n="num"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ais</l>
+          <r><s n="num"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="num"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="num"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ų</l>
+          <r><s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>oms</l>
+          <r><s n="num"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>as</l>
+          <r><s n="num"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ose</l>
+          <r><s n="num"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>omis</l>
+          <r><s n="num"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r><s n="num"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>os</l>
+          <r><s n="num"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="tr/ys__num">
+      <e>
+        <p>
+          <l>ijų</l>
+          <r>ys<s n="num"/><s n="m"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ims</l>
+          <r>ys<s n="num"/><s n="m"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is</l>
+          <r>ys<s n="num"/><s n="m"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ijuose</l>
+          <r>ys<s n="num"/><s n="m"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>imis</l>
+          <r>ys<s n="num"/><s n="m"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ys</l>
+          <r>ys<s n="num"/><s n="m"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ys</l>
+          <r>ys<s n="num"/><s n="m"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ijų</l>
+          <r>ys<s n="num"/><s n="f"/><s n="pl"/><s n="gen"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ims</l>
+          <r>ys<s n="num"/><s n="f"/><s n="pl"/><s n="dat"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>is</l>
+          <r>ys<s n="num"/><s n="f"/><s n="pl"/><s n="acc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ijose</l>
+          <r>ys<s n="num"/><s n="f"/><s n="pl"/><s n="loc"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>imis</l>
+          <r>ys<s n="num"/><s n="f"/><s n="pl"/><s n="ins"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ys</l>
+          <r>ys<s n="num"/><s n="f"/><s n="pl"/><s n="nom"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ys</l>
+          <r>ys<s n="num"/><s n="f"/><s n="pl"/><s n="voc"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <!-- Participle helpers -->
     <pardef n="dirb/ąs__pprs_act">
       <e>
@@ -6061,6 +6498,18 @@
     <e lm="saugiai"><i>saugia</i><par n="gilia/i__adv"/></e>
 
     <e lm="greitai"><i>grei</i><par n="grei/tai__adv"/></e>
+
+    <!-- Numbers -->
+    <e lm="vienas"><i>vien</i><par n="vien/as__num"/></e>
+    <e lm="du"><i>d</i><par n="d/u__num"/></e>
+    <e lm="penki"><i>penki</i><par n="penki__num"/></e>
+    <e lm="trys"><i>tr</i><par n="tr/ys__num"/></e>
+    <e lm="penki"><i>penki</i><par n="penki__num"/></e>
+    <e lm="keturi"><i>keturi</i><par n="penki__num"/></e>
+    <e lm="šeši"><i>šeši</i><par n="penki__num"/></e>
+    <e lm="septyni"><i>septyni</i><par n="penki__num"/></e>
+    <e lm="aštuoni"><i>aštuoni</i><par n="penki__num"/></e>
+    <e lm="devyni"><i>devyni</i><par n="penki__num"/></e>
 
     <!-- Toponyms -->
     <e lm="Lietuva"><i>Lietuv</i><par n="Lietuv/a__np"/></e>

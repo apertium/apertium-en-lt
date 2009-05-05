@@ -56,6 +56,19 @@
   <e><p><l>Indoeuropean<b/>language<s n="n"/></l><r>indoeuropiečių<b/>kalba<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>Slavic<b/>language<s n="n"/></l><r>slavų<b/>kalba<s n="n"/><s n="f"/></r></p></e>
   
+  <e><p><l>but<s n="cnjcoo"/></l><r>bet<s n="cnjcoo"/></r></p></e>
+
+  <!-- FIXME: the whole 'sp' thing needs to be handled -->
+  <e><p><l>one<s n="num"/></l><r>vienas<s n="num"/></r></p></e>
+  <e><p><l>two<s n="num"/></l><r>du<s n="num"/></r></p></e>
+  <e><p><l>three<s n="num"/></l><r>trys<s n="num"/></r></p></e>
+  <e><p><l>four<s n="num"/></l><r>keturi<s n="num"/></r></p></e>
+  <e><p><l>five<s n="num"/></l><r>penki<s n="num"/></r></p></e>
+  <e><p><l>six<s n="num"/></l><r>šeši<s n="num"/></r></p></e>
+  <e><p><l>seven<s n="num"/></l><r>septyni<s n="num"/></r></p></e>
+  <e><p><l>eight<s n="num"/></l><r>aštuoni<s n="num"/></r></p></e>
+  <e><p><l>nine<s n="num"/></l><r>devyni<s n="num"/></r></p></e>
+
   <e><p><l>have<s n="vbhaver"/></l><r>turėti<s n="vbhaver"/></r></p></e>
   <e><p><l>work<s n="vblex"/></l><r>dirbti<s n="vblex"/></r></p></e>
   <e><p><l>want<s n="vblex"/></l><r>norėti<s n="vblex"/></r></p></e>
