@@ -6264,19 +6264,19 @@
       <e>
         <p>
           <l>i</l>
-          <r>i<s n="adv"/><s n="pst"/></r>
+          <r>i<s n="adv"/><s n="sint"/><s n="pst"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>u</l>
-          <r>i<s n="adv"/><s n="comp"/></r>
+          <r>i<s n="adv"/><s n="sint"/><s n="comp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>usiai</l>
-          <r>i<s n="adv"/><s n="sup"/></r>
+          <r>i<s n="adv"/><s n="sint"/><s n="sup"/></r>
         </p>
       </e>
     </pardef>
@@ -6285,19 +6285,19 @@
       <e>
         <p>
           <l>tai</l>
-          <r>tai<s n="adv"/><s n="pst"/></r>
+          <r>tai<s n="adv"/><s n="sint"/><s n="pst"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>čiau</l>
-          <r>tai<s n="adv"/><s n="comp"/></r>
+          <r>tai<s n="adv"/><s n="sint"/><s n="comp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>usiai</l>
-          <r>tai<s n="adv"/><s n="sup"/></r>
+          <r>tai<s n="adv"/><s n="sint"/><s n="sup"/></r>
         </p>
       </e>
     </pardef>
@@ -6306,19 +6306,19 @@
       <e>
         <p>
           <l/>
-          <r><s n="adv"/><s n="pst"/></r>
+          <r><s n="adv"/><s n="sint"/><s n="pst"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iau</l>
-          <r><s n="adv"/><s n="comp"/></r>
+          <r><s n="adv"/><s n="sint"/><s n="comp"/></r>
         </p>
       </e>
       <e>
         <p>
           <l>iausiai</l>
-          <r><s n="adv"/><s n="sup"/></r>
+          <r><s n="adv"/><s n="sint"/><s n="sup"/></r>
         </p>
       </e>
     </pardef>

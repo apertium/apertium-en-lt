@@ -57,6 +57,10 @@
   <e><p><l>Slavic<b/>language<s n="n"/></l><r>slavų<b/>kalba<s n="n"/><s n="f"/></r></p></e>
   
   <e><p><l>but<s n="cnjcoo"/></l><r>bet<s n="cnjcoo"/></r></p></e>
+  
+  <e><p><l>here<s n="adv"/></l><r>čia<s n="adv"/></r></p></e>
+  <e><p><l>there<s n="adv"/></l><r>ten<s n="adv"/></r></p></e>
+  <e><p><l>often<s n="adv"/></l><r>dažnai<s n="adv"/><s n="sint"/></r></p></e>
 
   <!-- FIXME: the whole 'sp' thing needs to be handled -->
   <e><p><l>one<s n="num"/></l><r>vienas<s n="num"/></r></p></e>
