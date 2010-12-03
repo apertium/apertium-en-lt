@@ -27,8 +27,8 @@
   <e><p><l>Union<b/>of<b/>Soviet<b/>Socialist<b/>Republics<s n="np"/><s n="top"/></l><r>Tarybų<b/>Socialistinių<b/>Respublikų<b/>Sąjunga<s n="np"/><s n="top"/><s n="f"/></r></p></e>
   
   <!-- nouns -->
-  <e r="LR"><p><l>subscriber<s n="n"/></l><r>abiturientas<s n="n"/><s n="GD"/></r></p></e>
-  <e r="RL"><p><l>subscriber<s n="n"/></l><r>abiturientas<s n="n"/></r></p></e>
+  <e r="LR"><p><l>graduate<s n="n"/></l><r>abiturientas<s n="n"/><s n="GD"/></r></p></e>
+  <e r="RL"><p><l>graduate<s n="n"/></l><r>abiturientas<s n="n"/></r></p></e>
   <e r="LR"><p><l>Australian<s n="n"/></l><r>australietis<s n="n"/><s n="GD"/></r></p></e>
   <e r="RL"><p><l>Australian<s n="n"/></l><r>australietis<s n="n"/></r></p></e>
   <e r="RL"><p><l>Australian<s n="n"/></l><r>australas<s n="n"/></r></p></e>
@@ -49,6 +49,14 @@
   <e><p><l>republic<s n="n"/></l><r>respublika<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>union<s n="n"/></l><r>sąjunga<s n="n"/><s n="f"/></r></p></e>
   
+  <e><p><l>dirty<s n="adj"/></l><r>purvinas<s n="adj"/></r></p></e>
+  <e><p><l>pure<s n="adj"/></l><r>grynas<s n="adj"/></r></p></e>
+  <e><p><l>quiet<s n="adj"/></l><r>tylus<s n="adj"/></r></p></e>
+  <e><p><l>dry<s n="adj"/></l><r>sausas<s n="adj"/></r></p></e>
+  <e><p><l>green<s n="adj"/></l><r>žalias<s n="adj"/></r></p></e>
+  <e><p><l>Abkhazian<s n="adj"/></l><r>abchaziškas<s n="adj"/></r></p></e>
+  <e><p><l>empty<s n="adj"/></l><r>tuščias<s n="adj"/></r></p></e>
+
   <!-- 'cause otherwise lt->en would be 'language of lithuanians' etc. -ų is invariant (pl.gen) -->
   <e><p><l>German<b/>language<s n="n"/></l><r>vokiečių<b/>kalba<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>English<b/>language<s n="n"/></l><r>anglų<b/>kalba<s n="n"/><s n="f"/></r></p></e>
