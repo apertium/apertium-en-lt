@@ -1,4 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<alphabet></alphabet>
+<sdefs>
+  <sdef n="n"/>
+  <sdef n="np"/>
+  <sdef n="top"/>
+  <sdef n="ant"/>
+  <sdef n="m"/>
+  <sdef n="mp"/>
+  <sdef n="ma"/>
+  <sdef n="mi"/>
+  <sdef n="f"/>
+  <sdef n="nt"/>
+  <sdef n="GD"/>
+  <sdef n="vblex"/>
+  <sdef n="cnjcoo"/>
+  <sdef n="cnjsub"/>
+  <sdef n="vbhaver"/>
+  <sdef n="adj"/>
+  <sdef n="adv"/>
+  <sdef n="sint"/>
+  <sdef n="num"/>
+</sdefs>
 <section id="main" type="standard">
   <!-- Proper names: Men -->
   <e><p><l>Adam<s n="np"/><s n="ant"/><s n="m"/></l><r>Adomas<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -102,4 +125,4 @@
   <e><p><l>read<s n="vblex"/></l><r>skaityti<s n="vblex"/></r></p></e>
   <e><p><l>doubt<s n="vblex"/></l><r>abejoti<s n="vblex"/></r></p></e>
 </section>
-
+</dictionary>
