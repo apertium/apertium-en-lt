@@ -46,9 +46,9 @@
     <sdef n="p1" 	c="pirmasis asmuo"/> 
     <sdef n="p2" 	c="antrasis asmuo"/> 
     <sdef n="p3" 	c="trečiasis asmuo"/> 
-    <sdef n="pri" 	c="present indicative"/> 
+    <sdef n="pres" 	c="present indicative"/> 
     <sdef n="past" 	c="past"/> 
-    <sdef n="pfi" 	c="past frequentative indicative"/> 
+    <sdef n="pastf" 	c="past frequentative indicative"/> 
     <sdef n="pprs" 	c=""/> 
     <sdef n="pp" 	c=""/> 
     <sdef n="act" 	c=""/> 
@@ -218,6 +218,36 @@
   <e><p><l>čiusiomis</l><r><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
   <e><p><l>čiusiusios</l><r><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
 </pardef>
+<pardef n="BASE__išbučiavusysis">
+  <e><p><l>ysis</l><r><s n="m"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>iojo</l><r><s n="m"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e><p><l>iajam</l><r><s n="m"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>įjį</l><r><s n="m"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>iuoju</l><r><s n="m"/><s n="sg"/><s n="ins"/></r></p></e>
+  <e><p><l>iajame</l><r><s n="m"/><s n="sg"/><s n="loc"/></r></p></e>
+  <e><p><l>ysis</l><r><s n="m"/><s n="sg"/><s n="voc"/></r></p></e>
+  <e><p><l>ieji</l><r><s n="m"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e><p><l>iųjų</l><r><s n="m"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e><p><l>iesiems</l><r><s n="m"/><s n="pl"/><s n="dat"/></r></p></e>
+  <e><p><l>iuosius</l><r><s n="m"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e><p><l>iaisiais</l><r><s n="m"/><s n="pl"/><s n="ins"/></r></p></e>
+  <e><p><l>iuosiuose</l><r><s n="m"/><s n="pl"/><s n="loc"/></r></p></e>
+  <e><p><l>ieji</l><r><s n="m"/><s n="pl"/><s n="voc"/></r></p></e>
+  <e><p><l>ioji</l><r><s n="f"/><s n="sg"/><s n="nom"/></r></p></e>
+  <e><p><l>iosios</l><r><s n="f"/><s n="sg"/><s n="gen"/></r></p></e>
+  <e><p><l>iajai</l><r><s n="f"/><s n="sg"/><s n="dat"/></r></p></e>
+  <e><p><l>iąją</l><r><s n="f"/><s n="sg"/><s n="acc"/></r></p></e>
+  <e><p><l>iąja</l><r><s n="f"/><s n="sg"/><s n="ins"/></r></p></e>
+  <e><p><l>iojoje</l><r><s n="f"/><s n="sg"/><s n="loc"/></r></p></e>
+  <e><p><l>ioji</l><r><s n="f"/><s n="sg"/><s n="voc"/></r></p></e>
+  <e><p><l>iosios</l><r><s n="f"/><s n="pl"/><s n="nom"/></r></p></e>
+  <e><p><l>iųjų</l><r><s n="f"/><s n="pl"/><s n="gen"/></r></p></e>
+  <e><p><l>iosioms</l><r><s n="f"/><s n="pl"/><s n="dat"/></r></p></e>
+  <e><p><l>iąsias</l><r><s n="f"/><s n="pl"/><s n="acc"/></r></p></e>
+  <e><p><l>iosiomis</l><r><s n="f"/><s n="pl"/><s n="ins"/></r></p></e>
+  <e><p><l>iosiose</l><r><s n="f"/><s n="pl"/><s n="loc"/></r></p></e>
+  <e><p><l>iosios</l><r><s n="f"/><s n="pl"/><s n="voc"/></r></p></e>
+</pardef>
 <pardef n="BASE__išbučiuoju">
   <e><p><l>u</l><r><s n="p1"/><s n="sg"/></r></p></e>
   <e><p><l>i</l><r><s n="p2"/><s n="sg"/></r></p></e>
@@ -242,6 +272,7 @@
   <e><p><l>uoj</l><r>uoti<s n="vblex"/><s n="pres"/></r></p><par n="BASE__išbučiuoju"/></e>
   <e><p><l>av</l><r>uoti<s n="vblex"/><s n="past"/></r></p><par n="BASE__išbučiavau"/></e>
   <e><p><l>uodav</l><r>uoti<s n="vblex"/><s n="pastf"/></r></p><par n="BASE__išbučiavau"/></e>
+  <e><p><l>avus</l><r>uoti<s n="vblex"/><s n="pp"/><s n="act"/><s n="def"/></r></p><par n="BASE__išbučiavusysis"/></e>
 </pardef>
 
 <pardef n="personal_pronouns__prn">
@@ -1223,21 +1254,21 @@
     <!-- Verbs -->
 
 <pardef n="/būti__vbser">
-  <e><p><l>esu</l><r>būti<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e><p><l>esi</l><r>būti<s n="vbser"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e><p><l>yra</l><r>būti<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sp"/></r></p></e>
-  <e><p><l>esame</l><r>būti<s n="vbser"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e><p><l>esate</l><r>būti<s n="vbser"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e><p><l>esu</l><r>būti<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e><p><l>esi</l><r>būti<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e><p><l>yra</l><r>būti<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sp"/></r></p></e>
+  <e><p><l>esame</l><r>būti<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e><p><l>esate</l><r>būti<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r></p></e>
   <e><p><l>buvau</l><r>būti<s n="vbser"/><s n="past"/><s n="p1"/><s n="sg"/></r></p></e>
   <e><p><l>buvai</l><r>būti<s n="vbser"/><s n="past"/><s n="p2"/><s n="sg"/></r></p></e>
   <e><p><l>buvo</l><r>būti<s n="vbser"/><s n="past"/><s n="p3"/><s n="sp"/></r></p></e>
   <e><p><l>buvome</l><r>būti<s n="vbser"/><s n="past"/><s n="p1"/><s n="pl"/></r></p></e>
   <e><p><l>buvote</l><r>būti<s n="vbser"/><s n="past"/><s n="p2"/><s n="pl"/></r></p></e>
-  <e><p><l>būdavau</l><r>būti<s n="vbser"/><s n="pfi"/><s n="p1"/><s n="sg"/></r></p></e>
-  <e><p><l>būdavai</l><r>būti<s n="vbser"/><s n="pfi"/><s n="p2"/><s n="sg"/></r></p></e>
-  <e><p><l>būdavo</l><r>būti<s n="vbser"/><s n="pfi"/><s n="p3"/><s n="sp"/></r></p></e>
-  <e><p><l>būdavome</l><r>būti<s n="vbser"/><s n="pfi"/><s n="p1"/><s n="pl"/></r></p></e>
-  <e><p><l>būdavote</l><r>būti<s n="vbser"/><s n="pfi"/><s n="p2"/><s n="pl"/></r></p></e>
+  <e><p><l>būdavau</l><r>būti<s n="vbser"/><s n="pastf"/><s n="p1"/><s n="sg"/></r></p></e>
+  <e><p><l>būdavai</l><r>būti<s n="vbser"/><s n="pastf"/><s n="p2"/><s n="sg"/></r></p></e>
+  <e><p><l>būdavo</l><r>būti<s n="vbser"/><s n="pastf"/><s n="p3"/><s n="sp"/></r></p></e>
+  <e><p><l>būdavome</l><r>būti<s n="vbser"/><s n="pastf"/><s n="p1"/><s n="pl"/></r></p></e>
+  <e><p><l>būdavote</l><r>būti<s n="vbser"/><s n="pastf"/><s n="p2"/><s n="pl"/></r></p></e>
 </pardef>
 
 
@@ -1410,7 +1441,8 @@
     <!-- Verbs -->
 
 <e lm="būti"><i></i><par n="/būti__vbser"/></e>
-   
+<e lm="išbučiuoti"><i>išbuči</i><par n="išbuči/uoti__vblex"/></e>
+
     <!-- Adverbs -->
 
 <e lm="taip"><i>taip</i><par n="taip__adv"/></e>
