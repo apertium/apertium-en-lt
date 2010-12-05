@@ -61,6 +61,7 @@
   <e r="RL"><p><l>African<s n="n"/></l><r>afrikietis<s n="n"/></r></p></e>
   <e><p><l>Afrikaans<s n="n"/></l><r>Afrikansas<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>bison<s n="n"/></l><r>bizonas<s n="n"/><s n="m"/></r></p></e>
+  <e><p><l>example<s n="n"/></l><r>pavyzdys<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>tin<s n="n"/></l><r>alavas<s n="n"/><s n="m"/></r></p></e>
   <e><p><l>version<s n="n"/></l><r>versija<s n="n"/><s n="f"/></r></p></e>
   <e><p><l>foundation<s n="n"/></l><r>fondas<s n="n"/><s n="m"/></r></p></e>
@@ -126,5 +127,10 @@
   <e><p><l>want<s n="vblex"/></l><r>norėti<s n="vblex"/></r></p></e>
   <e><p><l>read<s n="vblex"/></l><r>skaityti<s n="vblex"/></r></p></e>
   <e><p><l>doubt<s n="vblex"/></l><r>abejoti<s n="vblex"/></r></p></e>
+  <e><p><l>abstract<s n="vblex"/></l><r>abstrahuoti<s n="vblex"/></r></p></e>
+  <e><p><l>absorb<s n="vblex"/></l><r>absorbuoti<s n="vblex"/></r></p></e>
+  <e><p><l>adapt<s n="vblex"/></l><r>adaptuoti<s n="vblex"/></r></p></e>
+  <e><p><l>address<s n="vblex"/></l><r>adresuoti<s n="vblex"/></r></p></e>
+  <e><p><l>push<s n="vblex"/></l><r>skųsti<s n="vblex"/></r></p></e>
 </section>
 </dictionary>
