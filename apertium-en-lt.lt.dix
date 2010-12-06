@@ -46,13 +46,17 @@
     <sdef n="p1" 	c="pirmasis asmuo"/> 
     <sdef n="p2" 	c="antrasis asmuo"/> 
     <sdef n="p3" 	c="trečiasis asmuo"/> 
-    <sdef n="pres" 	c="present indicative"/> 
+    <sdef n="pres" 	c="present"/> 
     <sdef n="past" 	c="past"/> 
-    <sdef n="pastf" 	c="past frequentative indicative"/> 
+    <sdef n="pastf" 	c="past frequentative"/> 
+    <sdef n="fut" 	c="future"/> 
+    <sdef n="def" 	c=""/> 
     <sdef n="pprs" 	c=""/> 
     <sdef n="pp" 	c=""/> 
     <sdef n="act" 	c=""/> 
     <sdef n="sint" 	c=""/> 
+    <sdef n="inf" 	c=""/> 
+    <sdef n="sub" 	c=""/> 
   </sdefs>
   <pardefs>
   
@@ -266,12 +270,35 @@
   <e r="LR"><p><l>om</l><r><s n="p1"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ot</l><r><s n="p2"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="BASE__išbučiuosiu">
+  <e><p><l>iu</l><r><s n="p1"/><s n="sg"/></r></p></e>
+  <e><p><l>i</l><r><s n="p2"/><s n="sg"/></r></p></e>
+  <e><p><l></l><r><s n="p3"/><s n="sp"/></r></p></e>
+  <e><p><l>ime</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e><p><l>ite</l><r><s n="p2"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>im</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>it</l><r><s n="p2"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="BASE__išbučiuočiau">
+  <e><p><l>čiau</l><r><s n="p1"/><s n="sg"/></r></p></e>
+  <e><p><l>tum</l><r><s n="p2"/><s n="sg"/></r></p></e>
+  <e><p><l>tų</l><r><s n="p3"/><s n="sp"/></r></p></e>
+  <e><p><l>tumėme</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e><p><l>tumėte</l><r><s n="p2"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>tumėm</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>tumei</l><r><s n="p2"/><s n="sg"/></r></p></e>
+  <e r="LR"><p><l>tumėt</l><r><s n="p2"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>tume</l><r><s n="p2"/><s n="pl"/></r></p></e>
+</pardef>
+
 
 <pardef n="išbuči/uoti__vblex">
   <e><p><l>uoti</l><r>uoti<s n="vblex"/><s n="inf"/></r></p></e>
   <e><p><l>uoj</l><r>uoti<s n="vblex"/><s n="pres"/></r></p><par n="BASE__išbučiuoju"/></e>
   <e><p><l>av</l><r>uoti<s n="vblex"/><s n="past"/></r></p><par n="BASE__išbučiavau"/></e>
   <e><p><l>uodav</l><r>uoti<s n="vblex"/><s n="pastf"/></r></p><par n="BASE__išbučiavau"/></e>
+  <e><p><l>uos</l><r>uoti<s n="vblex"/><s n="fut"/></r></p><par n="BASE__išbučiuosiu"/></e>
+  <e><p><l>uo</l><r>uoti<s n="vblex"/><s n="sub"/></r></p><par n="BASE__išbučiuočiau"/></e>
   <e><p><l>avus</l><r>uoti<s n="vblex"/><s n="pp"/><s n="act"/><s n="def"/></r></p><par n="BASE__išbučiavusysis"/></e>
 </pardef>
 
