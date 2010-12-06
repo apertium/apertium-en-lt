@@ -293,6 +293,33 @@
   <e r="LR"><p><l>am</l><r><s n="p1"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>at</l><r><s n="p2"/><s n="pl"/></r></p></e>
 </pardef>
+<pardef n="BASE__jaučiu">
+  <e><p><l>čiu</l><r><s n="p1"/><s n="sg"/></r></p></e>
+  <e><p><l>ti</l><r><s n="p2"/><s n="sg"/></r></p></e>
+  <e><p><l>čia</l><r><s n="p3"/><s n="sp"/></r></p></e>
+  <e><p><l>čiame</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e><p><l>čiate</l><r><s n="p2"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>čiam</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>čiat</l><r><s n="p2"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="BASE__myliu">
+  <e><p><l>iu</l><r><s n="p1"/><s n="sg"/></r></p></e>
+  <e><p><l>i</l><r><s n="p2"/><s n="sg"/></r></p></e>
+  <e><p><l>i</l><r><s n="p3"/><s n="sp"/></r></p></e>
+  <e><p><l>ime</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e><p><l>ite</l><r><s n="p2"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>im</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>it</l><r><s n="p2"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="BASE__mokau">
+  <e><p><l>au</l><r><s n="p1"/><s n="sg"/></r></p></e>
+  <e><p><l>ai</l><r><s n="p2"/><s n="sg"/></r></p></e>
+  <e><p><l>o</l><r><s n="p3"/><s n="sp"/></r></p></e>
+  <e><p><l>ome</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e><p><l>ote</l><r><s n="p2"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>om</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ot</l><r><s n="p2"/><s n="pl"/></r></p></e>
+</pardef>
 <pardef n="BASE__išbučiavau">
   <e><p><l>au</l><r><s n="p1"/><s n="sg"/></r></p></e>
   <e><p><l>ai</l><r><s n="p2"/><s n="sg"/></r></p></e>
@@ -301,6 +328,15 @@
   <e><p><l>ote</l><r><s n="p2"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>om</l><r><s n="p1"/><s n="pl"/></r></p></e>
   <e r="LR"><p><l>ot</l><r><s n="p2"/><s n="pl"/></r></p></e>
+</pardef>
+<pardef n="BASE__mokiau">
+  <e><p><l>iau</l><r><s n="p1"/><s n="sg"/></r></p></e>
+  <e><p><l>ei</l><r><s n="p2"/><s n="sg"/></r></p></e>
+  <e><p><l>ė</l><r><s n="p3"/><s n="sp"/></r></p></e>
+  <e><p><l>ėme</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e><p><l>ėte</l><r><s n="p2"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ėm</l><r><s n="p1"/><s n="pl"/></r></p></e>
+  <e r="LR"><p><l>ėt</l><r><s n="p2"/><s n="pl"/></r></p></e>
 </pardef>
 <pardef n="BASE__išbučiuosiu">
   <e><p><l>iu</l><r><s n="p1"/><s n="sg"/></r></p></e>
